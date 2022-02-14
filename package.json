@@ -1,0 +1,14 @@
+{
+  "name": "configpoc",
+  "version": "1.0.0",
+  "description": "To run any test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Config Team",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
