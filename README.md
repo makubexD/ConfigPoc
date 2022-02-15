@@ -34,18 +34,6 @@ This is the template for developing applications and might change, there is no s
  └──<feature/XYZ>                               * Any other branch with another tech stack
 ```
 
-
-**Make sure you have Node version >= 8.0 and NPM >= 3**
-
-```bash
-# install the repo with npm
-npm install
-
-# start the server in dev server
-npm run dev
-
-```
-
 ## Installing
 * `clone` the repo.
     ```bash
